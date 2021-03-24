@@ -5,7 +5,8 @@
 }
 
 body {
-    background-color: #f9e000;
+background-image: url(./asfer.jpg);
+background-size: cover;
     display: flex;
     flex-wrap: wrap;
     font-family: "Poppins", sans-serif;
